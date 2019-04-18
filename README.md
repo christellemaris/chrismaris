@@ -1,2 +1,2 @@
-# chris-maris-billie
+# chris-maris
 This is my personal creative webpage!
